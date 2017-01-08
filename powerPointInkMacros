@@ -1,6 +1,7 @@
 //*Arduino USB Keyboard for PPT Ink Controls
 //*Tool and Color
 //*8-14-15 update includes different delay speeds for colors
+//Code based on example found here: http://mitchtech.net/arduino-usb-hid-keyboard/
 
 #define KEY_LEFT_CTRL 1
 #define KEY_LEFT_SHIFT 2
